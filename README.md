@@ -1,6 +1,6 @@
 # Summarium
 
-Legal document summary and digest — Disciplina. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/summarium
 

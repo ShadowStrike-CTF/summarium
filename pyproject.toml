@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "summarium"
 version = "0.0.1"
-description = "Legal document summary and digest — Disciplina. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
